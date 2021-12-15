@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denizzengin
-- 👀 I’m interested in .NET, .NET Core, Golang  and React.js
+- 👀 I’m interested in .NET, .NET Core, Golang
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me @ddenizzenginn@gmail.com
 
